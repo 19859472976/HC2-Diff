@@ -1,0 +1,37 @@
+INFO:root:Sanity Check: stat name : ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Sanity Check: stat name : ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Load Model name: ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21. Using best epoch : 48
+INFO:root:
+----------start testing ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21----------
+
+INFO:root:Sanity Check: stat name : ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Sanity Check: stat name : ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Sanity Check: stat name : ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Sanity Check: stat name : ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Sanity Check: stat name : ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Load Model name: ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21. Using best epoch : 96
+INFO:root:
+----------start testing ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21----------
+
+INFO:root:Sanity Check: stat name : ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Load Model name: ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21. Using best epoch : 96
+INFO:root:
+----------start testing ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21----------
+
+INFO:root:Sanity Check: stat name : ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Load Model name: ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21. Using best epoch : 96
+INFO:root:
+----------start testing ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21----------
+
+INFO:root:Sanity Check: stat name : ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Load Model name: ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21. Using best epoch : 96
+INFO:root:
+----------start testing ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21----------
+
+INFO:root:Sanity Check: stat name : ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Load Model name: ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21. Using best epoch : 96
+INFO:root:
+----------start testing ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21----------
+
+INFO:root:Sanity Check: stat name : ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Sanity Check: stat name : ./models/GDELT/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21

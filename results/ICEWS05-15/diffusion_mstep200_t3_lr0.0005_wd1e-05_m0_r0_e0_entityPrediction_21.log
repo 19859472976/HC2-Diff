@@ -1,0 +1,25 @@
+INFO:root:Sanity Check: stat name : ./models/ICEWS05-15/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Sanity Check: stat name : ./models/ICEWS05-15/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Sanity Check: stat name : ./models/ICEWS05-15/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Sanity Check: stat name : ./models/ICEWS05-15/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Load Model name: ./models/ICEWS05-15/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21. Using best epoch : 48
+INFO:root:
+----------start testing ./models/ICEWS05-15/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21----------
+
+INFO:root:Sanity Check: stat name : ./models/ICEWS05-15/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Sanity Check: stat name : ./models/ICEWS05-15/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Load Model name: ./models/ICEWS05-15/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21. Using best epoch : 23
+INFO:root:
+----------start testing ./models/ICEWS05-15/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21----------
+
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'o151352.ingest.sentry.io'. (_ssl.c:1135)"))': /api/4504800232407040/envelope/
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'o151352.ingest.sentry.io'. (_ssl.c:1135)"))': /api/4504800232407040/envelope/
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'o151352.ingest.sentry.io'. (_ssl.c:1135)"))': /api/4504800232407040/envelope/
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'o151352.ingest.sentry.io'. (_ssl.c:1135)"))': /api/4504800232407040/envelope/
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'o151352.ingest.sentry.io'. (_ssl.c:1135)"))': /api/4504800232407040/envelope/
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'o151352.ingest.sentry.io'. (_ssl.c:1135)"))': /api/4504800232407040/envelope/
+INFO:root:Sanity Check: stat name : ./models/ICEWS05-15/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21
+INFO:root:Load Model name: ./models/ICEWS05-15/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21. Using best epoch : 47
+INFO:root:
+----------start testing ./models/ICEWS05-15/diffusion_mstep200_t3_lr0.0005_wd1e-05_m0_r0_e0_entityPrediction_21----------
+
